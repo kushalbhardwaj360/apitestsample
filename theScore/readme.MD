@@ -41,7 +41,7 @@ Otherwise you can manually download and install the latest official .msi package
 
 ### Further enhancements which can be done
 
-http request URLs are hard coded which can be improved by storing in string varibale
+http request URLs are hard coded which can be improved by storing in string variable
 
 Output alignment can be refined
 
