@@ -39,6 +39,11 @@ choco install k6
 COPY
 Otherwise you can manually download and install the latest official .msi package.
 
+### Further enhancements which can be done
+
+http request URLs are hard coded which can be improved by storing in string varibale
+Output alignment can be refined
+
 Note:
 There is no token required as it is using public API.v
 
