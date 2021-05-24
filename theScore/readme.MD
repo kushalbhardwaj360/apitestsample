@@ -1,4 +1,4 @@
-# K6 theScore home assignment
+# theScore QA Automation Challenge (API & Performance)
 
 This is an home assignment github repo to show how to write API validations using k6.
 
